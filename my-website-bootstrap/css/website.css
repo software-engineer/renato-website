@@ -1,0 +1,27 @@
+.darkTitle {
+	background: url(../img/title_dark.jpg) no-repeat center center fixed;
+	color: white;
+	padding: 12% 0% 12% 0%;
+}
+
+.subtitle {
+	background-color: #222;
+	padding: 2% 0% 2% 0%;
+}
+
+.mathematicsImg {
+	background: url(../img/mathematics2.jpg) repeat-y center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.cardboardImg {
+	background: url(../img/title_dark.jpg) repeat center center fixed;
+/* 	-webkit-background-size: cover; */
+/* 	-moz-background-size: cover; */
+/* 	-o-background-size: cover; */
+/* 	background-size: cover; */
+	color: white;
+}
